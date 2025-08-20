@@ -1,8 +1,4 @@
-body {
-    margin-left: 18%;
-    margin-right: 18%;
-    margin-top: 1%
-}
+
 .navbar{
     background-color: blue;
     border-color: blueviolet;
@@ -16,15 +12,28 @@ body {
     font-size: 15px;
     display: inline-block;
     font-family: Arial, sans-serif;
+    text-decoration: none;
 }
 .phototext {
     display: flex;
     background-color:cornflowerblue;
     padding: 20px;
-    margin-top: 10px;
+    margin-top: 5px;
+    justify-content: space-between;
 }
 .dog-text {
     padding-left: 10px;
     font-size: 12px;
-    text-align: right
+}
+.recept {
+    background-color:cornflowerblue;
+    padding: 20px;
+    margin-top: 5px;
+    text-align: center;
+}
+.nahoru {
+    margin-top: 5px;
+    background-color: blue;
+    padding: 30px;
+    text-align: center;  
 }
