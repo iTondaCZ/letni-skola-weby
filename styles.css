@@ -1,0 +1,30 @@
+body {
+    margin-left: 18%;
+    margin-right: 18%;
+    margin-top: 1%
+}
+.navbar{
+    background-color: blue;
+    border-color: blueviolet;
+    border-style: solid;
+    border-width: 8px;
+    border-radius: 10px;
+}
+.navbar-text {
+    color: white;
+    padding: 20px;
+    font-size: 15px;
+    display: inline-block;
+    font-family: Arial, sans-serif;
+}
+.phototext {
+    display: flex;
+    background-color:cornflowerblue;
+    padding: 20px;
+    margin-top: 10px;
+}
+.dog-text {
+    padding-left: 10px;
+    font-size: 12px;
+    text-align: right
+}
